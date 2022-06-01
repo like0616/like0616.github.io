@@ -1,3 +1,4 @@
+http://example.com/2022/06/01/python%E7%B1%BB/
 http://example.com/2022/06/01/py/
 http://example.com/tags/index.html
 http://example.com/resources/index-1.html
@@ -9,3 +10,4 @@ http://example.com/categories/index.html
 http://example.com/2022/05/31/hello-world/
 http://example.com/
 http://example.com/tags/%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/python/
