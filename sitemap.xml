@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/06/02/GEM/</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/06/01/hello-world/</loc>
     
     <lastmod>2022-06-01</lastmod>
@@ -65,6 +74,13 @@
 
   
   <url>
+    <loc>http://example.com/tags/GEM/</loc>
+    <lastmod>2022-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/python%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,6 +88,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/GEM/</loc>
+    <lastmod>2022-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://example.com/categories/hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</loc>
