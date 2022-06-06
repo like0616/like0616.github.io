@@ -8,6 +8,6 @@ http://example.com/resources/index.html
 http://example.com/
 http://example.com/tags/GEM/
 http://example.com/tags/python%E5%9F%BA%E7%A1%80/
-http://example.com/categories/GEM/
 http://example.com/categories/hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/
+http://example.com/categories/GEM/
 http://example.com/categories/python/
