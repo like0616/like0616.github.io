@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-07T07:18:54.118Z</updated>
+  <updated>2022-06-07T07:45:01.610Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://example.com/2022/06/07/BookManage/"/>
     <id>http://example.com/2022/06/07/BookManage/</id>
     <published>2022-06-07T07:17:12.000Z</published>
-    <updated>2022-06-07T07:18:54.118Z</updated>
+    <updated>2022-06-07T07:45:01.610Z</updated>
     
-    <content type="html"><![CDATA[<p>图书查询<br>用户借书信息查询<br>借书<br>还书<br>按借书量排序<br>修改登录密码<br>注销</p>]]></content>
+    <content type="html"><![CDATA[<p>图书查询<br>用户借书信息查询<br>借书<br>还书<br>按借书量排序<br>修改登录密码<br>注销</p><p><img src="/BookManage%5CGEM.jfif"></p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;图书查询&lt;br&gt;用户借书信息查询&lt;br&gt;借书&lt;br&gt;还书&lt;br&gt;按借书量排序&lt;br&gt;修改登录密码&lt;br&gt;注销&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/BookManage%5CGEM.jfif&quot;&gt;&lt;/p&gt;
 </summary>
-      
     
     
     
