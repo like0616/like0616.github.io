@@ -3,14 +3,93 @@
   <entry>
     <title>01.Urllib</title>
     <url>/2022/07/16/01-Urllib/</url>
-    <content><![CDATA[<object data="./01-Urllib/Urllib.pdf" type="application/pdf" width="100%" height="100%">
+    <content><![CDATA[<p>Python爬虫</p>
+<p>Urllib的基本使用</p>
+<span id="more"></span>
 
-</object>]]></content>
+<div class="pdfobject-container" data-target="Urllib.pdf" data-height="500px"></div>
+
+
+
+
+
+
+]]></content>
       <categories>
         <category>Python爬虫</category>
       </categories>
       <tags>
         <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>02.解析</title>
+    <url>/2022/07/16/02-%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<p>xpath、jsonpath、bs4解析网页源码的基本使用</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="02.解析.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python爬虫</category>
+      </categories>
+      <tags>
+        <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>03.selenium</title>
+    <url>/2022/07/16/03-selenium/</url>
+    <content><![CDATA[<p>selenium 自动化测试工具</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="03.selenium.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python爬虫</category>
+      </categories>
+      <tags>
+        <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>05.scrapy</title>
+    <url>/2022/07/16/05-scrapy/</url>
+    <content><![CDATA[<p>scrapy 是 爬虫框架</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="05.scrapy.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python爬虫</category>
+      </categories>
+      <tags>
+        <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>04.requests</title>
+    <url>/2022/07/16/04-requests/</url>
+    <content><![CDATA[<p>requests 与 urllib 类似，但更简单~~</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="04.requests.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python爬虫</category>
+      </categories>
+      <tags>
+        <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python基础</title>
+    <url>/2022/07/16/Python%E5%9F%BA%E7%A1%80/</url>
+    <content><![CDATA[<p>Python 基础知识</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="Python基础.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
@@ -1927,6 +2006,32 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/06/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<span id="more"></span>
+
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>hexo使用手册</category>
+      </categories>
+      <tags>
+        <tag>hexo使用手册</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>day09 ArrayList集合&amp;学生管理系统</title>
     <url>/2022/07/16/day09-ArrayList%E9%9B%86%E5%90%88-%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h2 id="1-ArrayList"><a href="#1-ArrayList" class="headerlink" title="1.ArrayList"></a>1.ArrayList</h2><p><strong>集合和数组的区别 :</strong> </p>
@@ -2099,32 +2204,6 @@
       </categories>
       <tags>
         <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/06/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<span id="more"></span>
-
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>hexo使用手册</category>
-      </categories>
-      <tags>
-        <tag>hexo使用手册</tag>
       </tags>
   </entry>
 </search>
