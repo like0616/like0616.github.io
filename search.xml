@@ -7,7 +7,7 @@
 <p>Urllib的基本使用</p>
 <span id="more"></span>
 
-<div class="pdfobject-container" data-target="./Urllib.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="Urllib.pdf" data-height="500px"></div>
 
 
 
@@ -23,12 +23,12 @@
       </tags>
   </entry>
   <entry>
-    <title>02.解析</title>
-    <url>/2022/07/16/02-%E8%A7%A3%E6%9E%90/</url>
-    <content><![CDATA[<p>xpath、jsonpath、bs4解析网页源码的基本使用</p>
+    <title>03.selenium</title>
+    <url>/2022/07/16/03-selenium/</url>
+    <content><![CDATA[<p>selenium 自动化测试工具</p>
 <span id="more"></span>
 
-<div class="pdfobject-container" data-target="02.解析.pdf" data-height="500px"></div>]]></content>
+<div class="pdfobject-container" data-target="selenium.pdf" data-height="500px"></div>]]></content>
       <categories>
         <category>Python爬虫</category>
       </categories>
@@ -37,12 +37,12 @@
       </tags>
   </entry>
   <entry>
-    <title>03.selenium</title>
-    <url>/2022/07/16/03-selenium/</url>
-    <content><![CDATA[<p>selenium 自动化测试工具</p>
+    <title>02.解析</title>
+    <url>/2022/07/16/02-%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<p>xpath、jsonpath、bs4解析网页源码的基本使用</p>
 <span id="more"></span>
 
-<div class="pdfobject-container" data-target="03.selenium.pdf" data-height="500px"></div>]]></content>
+<div class="pdfobject-container" data-target="解析.pdf" data-height="500px"></div>]]></content>
       <categories>
         <category>Python爬虫</category>
       </categories>
@@ -56,7 +56,7 @@
     <content><![CDATA[<p>requests 与 urllib 类似，但更简单~~</p>
 <span id="more"></span>
 
-<div class="pdfobject-container" data-target="04.requests.pdf" data-height="500px"></div>]]></content>
+<div class="pdfobject-container" data-target="requests.pdf" data-height="500px"></div>]]></content>
       <categories>
         <category>Python爬虫</category>
       </categories>
@@ -70,7 +70,7 @@
     <content><![CDATA[<p>scrapy 是 爬虫框架</p>
 <span id="more"></span>
 
-<div class="pdfobject-container" data-target="05.scrapy.pdf" data-height="500px"></div>]]></content>
+<div class="pdfobject-container" data-target="scrapy.pdf" data-height="500px"></div>]]></content>
       <categories>
         <category>Python爬虫</category>
       </categories>
