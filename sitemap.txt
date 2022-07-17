@@ -1,3 +1,4 @@
+http://example.com/2022/07/17/Git/
 http://example.com/2022/07/16/day01-java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/
 http://example.com/2022/07/16/05-scrapy/
 http://example.com/2022/07/16/04-requests/
@@ -23,7 +24,9 @@ http://example.com/tags/Python%E7%88%AC%E8%99%AB/
 http://example.com/tags/Python/
 http://example.com/tags/Java/
 http://example.com/tags/hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/
+http://example.com/tags/Git/
 http://example.com/categories/Python%E7%88%AC%E8%99%AB/
 http://example.com/categories/Python/
 http://example.com/categories/Java/
 http://example.com/categories/hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/
+http://example.com/categories/Git/
