@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>02.解析</title>
-    <url>/2022/07/16/02-%E8%A7%A3%E6%9E%90/</url>
-    <content><![CDATA[<p>xpath、jsonpath、bs4解析网页源码的基本使用</p>
-<span id="more"></span>
-
-<div class="pdfobject-container" data-target="解析.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Python爬虫</category>
-      </categories>
-      <tags>
-        <tag>Python爬虫</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>01.Urllib</title>
     <url>/2022/07/16/01-Urllib/</url>
     <content><![CDATA[<p>Python爬虫</p>
@@ -65,6 +51,20 @@
       </tags>
   </entry>
   <entry>
+    <title>02.解析</title>
+    <url>/2022/07/16/02-%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<p>xpath、jsonpath、bs4解析网页源码的基本使用</p>
+<span id="more"></span>
+
+<div class="pdfobject-container" data-target="解析.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Python爬虫</category>
+      </categories>
+      <tags>
+        <tag>Python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>05.scrapy</title>
     <url>/2022/07/16/05-scrapy/</url>
     <content><![CDATA[<p>scrapy 是 爬虫框架</p>
@@ -79,7 +79,7 @@
       </tags>
   </entry>
   <entry>
-    <title>././Git</title>
+    <title>Git</title>
     <url>/2022/07/17/Git/</url>
     <content><![CDATA[<h2 id="1-Git介绍"><a href="#1-Git介绍" class="headerlink" title="1.Git介绍"></a>1.Git介绍</h2><h3 id="1-1版本控制-理解"><a href="#1-1版本控制-理解" class="headerlink" title="1.1版本控制(理解)"></a>1.1版本控制(理解)</h3><p>无论是代码编写，还是文档编写，我们都会遇到对文档内容反复修改的情况</p>
 <p><img src="/2022/07/17/Git/01_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%BB%8B%E7%BB%8D-1658052385732.png" alt="01_版本控制介绍"></p>
@@ -87,6 +87,8 @@
 <li>程序员小明负责的模块就要完成了，就在即将提交发布之前的一瞬间，电脑突然蓝屏，硬盘光荣下岗！</li>
 </ul>
 <p>几个月来的努力付之东流</p>
+<span id="more"></span>
+
 <p>​	<img src="/2022/07/17/Git/02_%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%BA%BB%E7%83%A6-1658052385733.png" alt="02_开发中的麻烦"></p>
 <ul>
 <li><p>老王需要在项目中加入一个很复杂的功能，一边尝试，一边修改代码，就这样摸索了一个星期。<br>可是这被改得面目全非的代码已经回不到从前了。</p>
@@ -375,7 +377,7 @@
 </li>
 <li><p>公钥测试</p>
 <ul>
-<li>命令: ssh -T <a href="mailto:&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#x74;&#101;&#x65;&#46;&#99;&#111;&#x6d;">&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#x74;&#101;&#x65;&#46;&#99;&#111;&#x6d;</a></li>
+<li>命令: ssh -T <a href="mailto:&#x67;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#101;&#x65;&#46;&#x63;&#111;&#109;">&#x67;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#101;&#x65;&#46;&#x63;&#111;&#109;</a></li>
 </ul>
 <p><img src="/2022/07/17/Git/58_%E9%85%8D%E7%BD%AESSH%E5%85%AC%E9%92%A5-1658052385734.png" alt="58_配置SSH公钥"></p>
 </li>
@@ -494,10 +496,10 @@
 <p><img src="/2022/07/17/Git/83_%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%8B%E9%9A%86%E5%88%B0%E6%9C%AC%E5%9C%B0%E4%BB%93%E5%BA%93-1658052385735.png" alt="83_远程仓库克隆到本地仓库"></p>
 ]]></content>
       <categories>
-        <category>././Git</category>
+        <category>Git</category>
       </categories>
       <tags>
-        <tag>././Git</tag>
+        <tag>Git</tag>
       </tags>
   </entry>
   <entry>
